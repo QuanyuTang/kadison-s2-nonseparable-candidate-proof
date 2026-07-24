@@ -4,11 +4,15 @@
 
 ## Overview
 
-This repository contains a manuscript presenting an AI-generated candidate proof for the nonseparable case of Kadison’s trace-vector orthonormal basis problem in the tracial standard representation of a type $\mathrm{II}_1$ factor.
+In 1967, Richard V. Kadison asked whether every type $\mathrm{II}_1$ factor has an orthonormal basis, with respect to its trace, consisting of unitaries.
 
-The manuscript claims that, when $\text{dens} L^2(M,\tau) > \aleph_0$, the Hilbert space $L^2(M,\tau)$ has an orthonormal basis represented by self-adjoint unitaries in $M$, and hence an orthonormal basis consisting of trace vectors for the left action of $M$.
+This problem is listed as **Problem S.2 (Kadison 1967)** on Jesse Peterson’s webpage *[Open problems in operator algebras](https://www.math.uwaterloo.ca/~j37peter/problems.html)*. The separable case has been settled affirmatively, while the nonseparable case is still listed there as open.
 
-If the candidate argument is correct, combining it with the previously obtained separable case would resolve the problem in the tracial standard representation.
+This repository contains a manuscript presenting an AI-generated and independently unverified candidate proof for the remaining nonseparable case in the tracial standard representation.
+
+The manuscript claims that, when $\text{dens} L^2(M,\tau)>\aleph_0$, the Hilbert space $L^2(M,\tau)$ has an orthonormal basis represented by self-adjoint unitaries in $M$, and hence an orthonormal basis consisting of trace vectors for the left action of $M$.
+
+If the candidate argument is correct, combining it with the previously obtained separable case would resolve Kadison’s 1967 problem in the tracial standard representation.
 
 ## Original problem and source
 
